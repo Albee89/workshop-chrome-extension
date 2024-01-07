@@ -1,7 +1,7 @@
 # JavaScript Workshop: Chrome Extension
-#### Learn how to build your first Chrome Extension
+## Building My First Chrome Extension
 
-### Setup: https://info.lewagon.com/tokyo-chrome-ext
+### with setup: https://info.lewagon.com/tokyo-chrome-ext
 
 ![https://info.lewagon.com/tokyo-chrome-ext](images/qrcode.png)
 
@@ -9,7 +9,7 @@ By [Trouni Tiet](https://linkedin.com/in/trouni) for [Le Wagon Tokyo](https://ww
 
 ---
 
-## Setup
+## Setup!
 
 All you need for this workshop is [Google Chrome](https://www.google.com/chrome/) and a text editor or IDE like [Sublime Text](https://www.sublimetext.com/).
 
